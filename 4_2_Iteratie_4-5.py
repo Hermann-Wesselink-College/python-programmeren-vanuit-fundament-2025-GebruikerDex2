@@ -7,7 +7,7 @@ while saldo < 400:
 print("Jaar is: " + str(jaar))
 print("Saldo is: " + str(saldo))
  
-saldo = 100000
+saldo = 150000
 opname = 5000
 jaar = 0
  
